@@ -49,6 +49,7 @@ output f2;
 assign f2=((~y&z)|(x&y)|(w&y));
 endmodule
 
+
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by: RegisterNumber:24900612
@@ -65,7 +66,6 @@ Exp2_2 ![Screenshot (23)](https://github.com/user-attachments/assets/4823f014-27
 
 **Timing Diagram**
 Exp2_1 ![image](https://github.com/user-attachments/assets/0b763ba2-08ad-47bb-99ce-9fa4fda42d92)
-
 
 Exp2_2 ![image](https://github.com/user-attachments/assets/0d70012e-db45-46ce-9cfb-bc80f6830b35)
 
